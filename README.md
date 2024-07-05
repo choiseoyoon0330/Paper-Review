@@ -5,4 +5,6 @@
 
 + [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576) | code [[Colab]](https://github.com/choiseoyoon0330/Paper-Review/blob/main/NST/A_Neural_Algorithm_of_Artistic_Style.ipynb)
 
++ [Artistic style transfer for videos](https://arxiv.org/abs/1604.08610) | code
+
 + [AesPA-Net: Aesthetic Pattern-Aware Style Transfer Networks](https://arxiv.org/abs/2307.09724) | code 
