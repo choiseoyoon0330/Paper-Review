@@ -1,5 +1,5 @@
 # Paper-Review
-:pencil: 논문 리뷰 및 코드 구현
+:pencil: Paper Review and Implementations
 
 ## NST
 
