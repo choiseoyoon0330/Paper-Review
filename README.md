@@ -1,5 +1,5 @@
 # Paper-Review
-:pencil: Paper Review and Implementations
+Paper Review and Implementations
 
 ## NST
 
